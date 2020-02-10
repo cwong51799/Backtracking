@@ -1,2 +1,2 @@
 # Backtracking
- CSE373HW4
+ As part of my algorithms class, I had to implement a heuristic which, given a collection of sets of points, find the minimum set cover such that you have cover every point using the least amount of sets. This was a homework focused around backtracking and pruning possible results. My professor made it a competition as to how fast/large of a data set the program could process so that was fun.
